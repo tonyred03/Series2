@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Review de Series de Netflix</title>
+        <meta charset="utf-8">
+    </head> 
+    <link href="Estilos.css" rel="stylesheet" /> 
+    <style>
+    	*{		
+			padding:0px;
+			margin:0px;
+		}
+    </style>
+    <body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="" >INICIO</a></li>	
+				<li><a href="" >AUTORES</a>
+					<ul>
+						<li><a href="angel.html">Ángel Bejarano</a>
+						</li>				
+						<li><a href="antonio.html">Antonio Rojas</a>
+						</li>
+					</ul>
+				</li>
+				
+				<li><a href="" >SERIES DE NETFLIX</a>
+					<ul>
+						<li><a href="Pagina1.html">Prision Break</a></li>
+						<li><a href="Pagina2.html">Elite</a></li>
+					</ul>
+				</li>				
+			</ul>	
+		</div>
+</body>
+
+
+
+<body>
+<h1 id="title">-Reviews de las series más famosas-</h1>
+
+<h3 id="PB">Prision Break</h3>
+<p id="info1"> Fue creada por Paul Scheuring y producida por Adelstein-Parouse 
+Productions en asociación con Original Television y 20th Century Fox Television... <strong>REVIEW DISPONIBLE</strong></p>
+
+<h3 id="ET">Elite</h3>
+<p id="info2">Élite (estilizado como ELITƎ) es una serie española de televisión estrenada en Netflix el 5 de octubre de 2018, 
+en 190 países del mundo.​ La serie es producida por Zeta Ficción TV para Netflix, 
+y creada por Carlos Montero (Física o química, Al salir de clase) y Darío Madrona (Los protegidos). <strong>REVIEW DISPONIBLE</strong></p>
+
+<h3 id="LCDP">La Casa de Papel</h3>
+<p id="info3">La casa de papel es una serie de televisión española creada por Álex Pina y producida por Atresmedia en colaboración 
+con Vancouver Media para su emisión en Antena 3, y posteriormente en Netflix. 
+Protagonizada por Úrsula Corberó, Itziar Ituño y Álvaro Morte, 
+se presentó en el III Festival de Televisión de Primavera en Burgos en marzo de 2017. <strong>Próximamente</strong></p>
+
+<h3 id="TWD">The Walking Dead</h3>
+<p id="info4">The Walking Dead es una serie de televisión estadounidense de horror post-apocalíptico para AMC basada en la serie de cómics de Robert Kirkman, Tony Moore y Charlie Adlard. 
+La serie presenta un gran elenco como sobrevivientes de un apocalipsis zombi, tratando de mantenerse con vida bajo 
+la amenaza casi constante de ataques de los zombis sin conciencia, coloquialmente conocidos como «caminantes». <strong>Próximamente</strong></p>
+
+<h3 id="ST" >Stranger Things</h3>
+<p id="info5">Stranger Things es una serie web estadounidense de suspenso y ciencia ficción coproducida y distribuida por Netflix. 
+Escrita y dirigida por los hermanos Matt y Ross Duffer y 
+producida ejecutivamente por Shawn Levy,​ fue estrenada en la plataforma Netflix el 15 de julio de 2016. <strong>Próximamente</strong></p>
+
+</body>
+
+</html>

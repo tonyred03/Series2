@@ -1,0 +1,107 @@
+<html>
+    <head>
+        <title>Review de Prision Break</title>
+        <meta charset="utf-8">
+    </head> 
+    <link href="Index.html" rel="Prision Break" />
+    <link href="Estilos.css" rel="stylesheet" />
+    <style type=""></style>
+ 
+   <body>
+   
+   <body>
+<h1>PRISON BREAK</h1>
+<h2>TRAMA</h2>
+<p class="trama">La serie gira en torno a un hombre llamado Michael Scofield, que en un elaborado plan para rescatar a su hermano Lincoln Burrows, 
+entra a "Fox River" una penitenciaría de máxima seguridad cerca de Chicago, para sacar a su hermano acusado por un falso asesinato 
+del hermano de la vicepresidenta.</p>
+ 
+<h2>RESUMEN POR TEMPORADAS</h2>
+
+<h3>Primera temporada</h3>
+
+<p class="temporada-1"><img src="Im%C3%A1genes/prison-break-casting.jpg" width="235" height="140" alt="casting" id="casting" align="right" />Consta de 22 episodios. Lincoln Burrows es acusado de ser el autor de un crimen que él dice no haber cometido
+: asesinar a Terrence Steadman, el hermano de la Vicepresidenta de los Estados Unidos. Lincoln es sentenciado a muerte y enviado a 
+la Penitenciaría Estatal Fox River, para cumplir allí su condena hasta el día de su ejecución. Michael Scofield, el hermano menor 
+de Lincoln, está convencido de la inocencia de su hermano y elabora un plan de escape de la prisión. Después de haber planeado la fuga, 
+Michael roba un banco a mano armada para que lo encarcelen en Fox River. Dentro de la cárcel debe llevar a cabo su plan, pero debe superar 
+obstáculos, sobrevivir en prisión y aliarse con otros presos para poder escapar con su hermano de la prisión antes de su fecha de ejecución. 
+Mientras, fuera de la cárcel la abogada Veronica Donovan, amiga de infancia de los hermanos, hace todo lo posible para aclarar la conspiración 
+que llevó a Lincoln a la cárcel, pero los agentes secretos de una organización conocida como La Compañía, hacen lo imposible para obstaculizar 
+el trabajo de Verónica.</p>
+
+<h3>Segunda temporada</h3>
+
+<p><img src="Im%C3%A1genes/temporada%202.jpg" width="235" height="140" alt="temporada-2" id="temporada-2" align="right" />Consta de 22 episodios y es continuación directa
+ del final de la primera temporada. Comienza ocho horas después de la fuga de prisión y se centra principalmente en la supervivencia de 
+ los fugitivos. Un nuevo personaje importante se introduce esta temporada: el agente del FBI, Alexander Mahone, a quien se le asigna el 
+ trabajo de capturar a los ocho de Fox River. Los fugitivos recorren todo el país para no ser encontrados por la policía. Cada uno tiene 
+ sus metas individuales, sin embargo, varios coinciden en Utah, donde hay 5 millones de dólares enterrados (Dinero que Charles Westmoreland 
+ o "D.B. Cooper", enterró antes de ser capturado). El argumento secundario de esta temporada es el interés de La Compañía por localizar y 
+ eliminar a Lincoln Burrows y a los demás fugitivos.</p>
+ 
+<h3>Tercera temporada</h3>
+
+<p><img src="Im%C3%A1genes/temporada%203.jpg" width="235" height="140" alt="temporada-3" id="temporada-3" align="right" />La tercera temporada consta de 13 episodios y es la continuación del final de la segunda temporada, donde la mayor parte de los 
+personajes principales terminan en Panamá. Lincoln es exonerado de sus presuntos crímenes, mientras Michael es encarcelado por cargos 
+de homicidio en la Penitenciaría Federal de Sona, junto con Mahone, T-Bag y Bellick. Michael se ve obligado a escapar de prisión nuevamente, 
+coaccionado por La Compañía para que se fugue y entregue a James Whistler, a cambio de la liberación de LJ y Sara.</p>
+
+<h3>Cuarta temporada</h3>
+
+<p><img src="Im%C3%A1genes/temporada%204.jpg" width="235" height="140" alt="temporada-4" id="temporada-4" align="left" />Consta de 24 episodios durante la primera mitad de esta temporada el equipo liderado por Mike debe hacerse con las seis tarjetas de Scylla,
+vitales para derrotar a La Compañía. El grupo está configurado por Michael Scofield, Lincoln Burrows, Fernando Sucre, Sara Tancredi, Brad 
+Bellick y Alexander Mahone. Todos ellos están bajo el control de su superior, el agente Donald Self. Para el sexteto, a excepción de Sara, 
+el hacerse con las tarjetas de Scylla es la única manera de liberar sus cargos, y ser libres una vez acabada la misión.</p>
+
+<h3 id="season-5">Quinta temporada</h3>
+
+<p><img id="temporada-5" src="../Im%C3%A1genes/temporada%205.jpg" width="235" height="140" alt="temporada-5" align="left" />Siete años más tarde, la muerte de Michael Scofield atormenta a Lincoln Burrows, su hermano. Sin embargo, unas pistas que llegan al poder 
+de Lincoln muestran que Michael podría estar vivo. Según las mismas, Michael estaría encerrado en la famosa Prisión de Ogygia, localizada 
+en Yemen. Además, el preso se escondería tras el nombre de Kaniel Outis. Tal y como hizo su hermano tantos años atrás, Lincoln arriesga 
+su vida viajando a Yemen, con el objetivo de rescatar a Michael y llevarle a casa.</p>
+
+<h2 id="personajes">PERSONAJES IMPORTANTES</h2>
+
+<h3>Michael Scofield y Lincoln Burrows</h3>
+<p><img id="michael" src="../Im%C3%A1genes/Michael%20y%20Lincoln.jpg" width="140" height="165" alt="Michael y su hermano" align="left" />Los dos personajes principales 
+de la serie son Lincoln Burrows y Michael Scofield. Lincoln es un hombre condenado a morir por un delito
+que no cometió, acusado de asesinar al hermano de la Vicepresidenta de los Estados Unidos. Michael es su hermano menor. Antes de dedicar 
+todo su tiempo al caso de su hermano, Michael trabajaba como ingeniero estructural en una prestigiosa 
+empresa deChicago. Michael arriesga su vida para salvar la de su hermano y elabora un plan de escape para librarlo de la ejecución. Michael 
+y Lincoln tienen un amor fraternal tan fuerte, que uno es capaz de sacrificarse para proteger al otro. Lincoln y Michael son los únicos 
+personajes de la serie que han aparecido en todos los episodios de la misma.</p>
+
+<h3 id="veronica-lj">Veronica Donovan y L.J Junior</h3>
+<p><img id="veronica" src="../Im%C3%A1genes/5145313_640px.jpg" width="140" height="165" alt="Veronica Donovan" align="left" /><img id="lj" src="../Im%C3%A1genes/LJ_Burrows.jpg" width="140" height="165" alt="L.J Junior" align="right" />Veronica Donovan es amiga de la infancia de Lincoln y Michael. Es abogada y hace hasta lo 
+imposible para apelar el juicio 
+de Lincoln. Su personaje es clave en la primera temporada. L. J. Burrows es el hijo adolescente de Lincoln. Es uno de los 
+más afectados por la sentencia de su padre y se ve forzado a esconderse del Servicio Secreto, pues se convierte en uno de los blancos de 
+la gente que desea la muerte de Lincoln.</p>
+
+<h3 id="FJ">Fernando Sucre y John Abruzzi</h3>
+<p><img id="sucre" src="../Im%C3%A1genes/Sucre_Icon.png" width="140" height="165" alt="Sucre" align="left" /><img id="abruzzi" src="../Im%C3%A1genes/John_Abruzzi.jpg" width="140" height="165" alt="Abruzzi" align="right" />Sucre es el compañero de celda de Michael en la prisión y fue condenado después de cometer un robo a mano armada, sin embargo, no es 
+un mal hombre y todo lo hizo por amor. Sucre es también el personaje que le da un toque cómico a la trama de la serie, y se va haciendo 
+amigo de Michael para escapar con él de la prisión. Abruzzi es el líder de un grupo de la mafia de Chicago. Es uno de los presos que está 
+también involucrado en el plan de fuga y le hace la vida imposible a Michael los primeros días en la prisión, para que este le entregue a 
+uno de los testigos presenciales de sus crímenes, Otto Fibonacci.</p>   
+   
+</body>
+</html>   
+    
+    
+    
+    
+    
+    
+       
+
+   
+  
+    
+    
+    
+    
+    
+    
+    

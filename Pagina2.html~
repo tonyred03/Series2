@@ -1,0 +1,168 @@
+<html>
+    <head>
+        <title>Review de Élite</title>
+        <meta charset="utf-8">
+    </head> 
+    <link href="Index.html" rel="Élite" />
+    <link href="Estilos.css" rel="stylesheet" />
+    <style>    	   
+    </style>
+    <body>
+
+<h1 id="title">ÉLITE</h1>
+
+<p><strong>Élite</strong> es una serie española de televisión estrenada en Netflix el 5 de octubre de 2018, 
+en 190 países del mundo. La serie es producida por Zeta Ficción TV para Netflix, y creada por Carlos Montero 
+y Darío Madrona. Actualmente, la serie Élite ha emitido 3 temporadas (2018, 2019, 2020) de 8 capítulos cada una, 
+con una duración de aproximadamente 45 minutos por episodio.</p>
+
+<h2>TRAMA</h2>
+<p>La serie <strong>Élite</strong> narra la vida de un grupo de estudiantes de un exclusivo colegio privado ("Las Encinas") 
+al que llegan tres nuevos alumnos becados de clase obrera, 
+y donde las diferencias entre ricos y humildes dan lugar a un asesinato.</p>
+
+<h2>RESUMEN POR TEMPORADAS</h2>
+
+<img src="Im%C3%A1genes/Elite_S1.jpg" width="200" height="275" alt="Foto de la Primera Temporada" id="imagen" align="right" />
+<h3 class="season">Primera Temporada</h3>
+<p>La serie sigue la vida de tres jóvenes que han recibido una beca para estudiar en Las Encinas, un prestigioso instituto de España, tras el derrumbe que sufrió su anterior instituto. 
+La llegada de Samuel, Nadia y Christian no será nada fácil, pues los estudiantes que se encuentran en dicho instituto no les harán la vida sencilla. 
+Pero entre la humillación y el acoso escolar ocurre el asesinato de uno de los adolescentes, y solo quedará por descubrir quién fue el asesino.</p>
+<p> <strong><u>CAPÍTULOS:</u></strong></p>
+<ol>
+<li>Bienvenidos</li>
+<li>Deseo</li>
+<li>Sábado noche</li>
+<li>El amor es una droga</li>
+<li>Todos mienten</li>
+<li>Todo va a salir bien</li>
+<li>Todo estalla</li>
+<li>Assilah</li>
+</ol>
+
+<img src="Im%C3%A1genes/Elite_S2.jpg" width="200" height="275" alt="Foto de la Segunda Temporada" id="imagen" align="right" />
+<h3 class="season">Segunda Temporada</h3>
+<p>Un alumno desaparece en el nuevo curso escolar, donde las mentiras y los secretos que rodean el asesinato del año anterior 
+dificultan que la policía pueda investigar qué ha ocurrido en ambos casos.</p>
+<p> <strong><u>CAPÍTULOS:</u></strong></p>
+<ol>
+<li>20 horas desaparecido</li>
+<li>34 horas desaparecido</li>
+<li>36 horas desaparecido</li>
+<li>59 horas desaparecido</li>
+<li>63 horas desaparecido</li>
+<li>66 horas desaparecido</li>
+<li>84 horas desaparecido</li>
+<li>0 horas desaparecido</li>
+</ol>
+
+<img src="Im%C3%A1genes/Elite_S3.jpg" width="200" height="275" alt="Foto de la Tercera Temporada" id="imagen" align="right" />
+<h3 class="season">Tercera Temporada</h3>
+<p>Se produce un nuevo asesinato entre los alumnos del colegio. 
+La policía trata de investigar la nueva muerte y relacionarlo con lo ocurrido anteriormente, 
+al mismo tiempo que los estudiantes piensan en su futuro y se atormentan de las consecuencias del pasado.</p>
+<p> <strong><u>CAPÍTULOS:</u></strong></p>
+<ol>
+<li>Carla</li>
+<li>Samuel y Guzmán</li>
+<li>Cayetano y Valeria</li>
+<li>Lu</li>
+<li>Ander</li>
+<li>Rebeca</li>
+<li>Nadia y Omar</li>
+<li>Polo</li>
+</ol>
+
+<h2>PERSONAJES DE LA SERIE</h2>
+<ol>
+<li class="name">María Pedraza:</li>
+<p>Como <strong><u>Marina Nunier Osuna</u></strong> (temporada 1): una joven de clase social alta que, 
+aparentemente harta de la vida elitista que lleva su familia, 
+decide ser amiga de los nuevos alumnos becados de clase social humilde.</p>
+
+<li class="name">Itzan Escamilla:</li>
+<p>Como <strong><u>Samuel García Domínguez</u></strong>: uno de los nuevos alumnos humildes becados del colegio,y hermano pequeño de Nano. 
+Es un joven que a pesar de ser de clase social baja no renuncia a relacionarse con algunos de los estudiantes de clase social alta (especialmente con Marina) 
+y tratar de investigar la verdad sobre las injusticias se producen en su entorno.</p>
+
+<li class="name">Miguel Bernardeau:</li>
+<p>Como <strong><u>Guzmán Nunier Osuna</u></strong>: un joven de clase social alta, hermano de Marina, novio de Lucrecia y líder elitista de su grupo de amigos, 
+que trata de hacer la vida imposible a los nuevos alumnos becados hasta que comienza a interesarse en una de las nuevas estudiantes: Nadia.</p>
+
+<li class="name">Miguel Herrán:</li>
+<p>Como <strong><u>Christian Varela Expósito</u></strong> (temporada 1; invitado temporada 2): uno de los nuevos alumnos humildes becados del colegio. 
+Es un joven que a pesar de ser de clase social baja no renuncia a progresar socialmente, 
+por lo que trata de relacionarse con los alumnos de clase social alta, especialmente con Carla y Polo.</p>
+
+<li class="name">Jaime Lorente:</li>
+<p>Como <strong><u>Fernando "Nano" García Domínguez</u></strong> (temporadas 1–2): un joven humilde que acaba de salir de la cárcel, y hermano mayor de Samuel. 
+Nano no es alumno del colegio y no tiene relación con los jóvenes de clase social alta, hasta que siente interés por una de ellas: Marina.</p>
+
+<li class="name">Álvaro Rico:</li>
+<p>Como <strong><u>Leopoldo "Polo" Benavent Villada</u></strong> (temporadas 1–3): un joven de clase social alta, 
+fácil de manipular que se siente influenciado por su amigo Guzmán y su novia Carla.</p>
+
+<li class="name">Arón Piper:</li>
+<p>Como <strong><u>Ander Muñoz</u></strong>: joven de clase social medio-alta, es el mejor amigo de Guzmán y Polo. Ander trata de pasar desapercibido 
+y no renuncia a relacionarse con los nuevos alumnos de origen humilde, especialmente con el hermano de Nadia: Omar.</p>
+
+<li class="name">Mina El Hammani:</li>
+<p>Como <strong><u>Nadia Shanaa</u></strong> (temporadas 1–3): una de las nuevas alumnas humildes becadas del colegio, y hermana de Omar. 
+Nadia, cuya familia es de tradición musulmana,critica a los alumnos de clase social alta 
+y no trata de relacionarse con ellos hasta que siente interés por uno de ellos: Guzmán.</p>
+
+<li class="name">Ester Expósito:</li>
+<p>Como <strong><u>Carla Rosón Caleruega</u></strong> (temporadas 1–3): joven marquesa de clase social alta. Carla es desde hace años la novia de Polo, 
+al que puede manejar fácilmente a su gusto, y amiga de Lu y Marina.</p>
+
+<li class="name">Omar Ayuso:</li>
+<p>Como <strong><u>Omar Shanaa</u></strong>: un joven humilde de familia musulmana, hermano de Nadia, y mejor amigo de Samuel. Omar no es alumno del colegio 
+y no tiene relación con los jóvenes de clase social alta, hasta que siente interés por uno de ellos: Ander.</p>
+
+<li class="name">Danna Paola:</li>
+<p>Como <strong><u>Lucrecia "Lu" Montesinos Hendrich</u></strong> (temporadas 1–3): joven mexicana de clase alta y novia de Guzmán, 
+que trata de presumir de su clase social elitista, y está empeñada en ser la mejor estudiante del colegio. 
+Es la medio-hermana de Valerio, personaje que se incorpora en la segunda temporada.</p>
+
+<li class="name">Jorge López:</li>
+<p>Como <strong><u>Valerio Montesinos Rojas</u></strong> (temporadas 2–3): recién llegado al Colegio Privado de "Las Encinas", 
+es un joven chileno de clase social alta y medio-hermano de Lucrecia, 
+que no renuncia a relacionarse con quien haga falta con el objetivo de pasárselo bien y 
+conseguir llamar la atención de su media-hermana Lucrecia.</p>
+
+<li class="name">Claudia Salas:</li>
+<p>Como <strong><u>Rebeka de Bormujo Ávalos</u></strong>: recién llegada al Colegio Privado de "Las Encinas", 
+es una joven adinerada pero de origen humilde y chabacano. Rebeka, aunque actualmente pertenece a una familia de mucho dinero, 
+prefiere relacionarse con los estudiantes becados de origen humilde (Nadia y Samuel), y criticar a los alumnos de clase social alta.</p>
+
+<li class="name">Georgina Amorós:</li>
+<p>Como <strong><u>Cayetana Grajera Pando</u></strong>: recién llegada al Colegio Privado de "Las Encinas", 
+es una joven aparentemente adinerada y con una vida perfecta que trata de relacionarse con los alumnos de clase social alta, 
+haciéndose amiga de Lucrecia, e interesándose en Polo.</p>
+
+<li class="name">Leïti Sène:</li>
+<p>Como <strong><u>Malick</u></strong> (temporada 3): recién llegado al Colegio Privado de "Las Encinas", 
+es un joven musulmán de clase social alta y origen senegalés, 
+que no tiene problema en relacionarse con los jóvenes de clase social baja: Nadia y Omar, cuya familia es de tradición musulmana.</p>
+
+<li class="name">Sergio Momo:</li>
+<p>Como <strong><u>Yeray</u></strong> (temporada 3): recién llegado al Colegio Privado de "Las Encinas", es un joven adinerado que anteriormente ya había estudiado allí, 
+y que al volver trata de relacionarse con Carla.</p>
+</ol>
+</body>    
+</html>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    

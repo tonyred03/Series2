@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>Review de Series de Netflix</title>
+        <meta charset="utf-8">
+    </head> 
+    <link href="Index.html" rel="Ángel Bejarano" />
+    <link href="Estilos.css" rel="stylesheet" /> 
+    <style>
+   	 h1{
+    	 margin-right:475px;
+    	 margin-left:400px;
+   	 }
+   	 h2{
+		 margin-top:30px;    	 
+     	 }
+     	 #objetivo{
+       margin-top:30px;
+		 }
+     	 
+    </style> 
+	 <body>
+	 
+<h1>Ángel Bejarano</h1>
+
+<h2>¿Quiénes somos?</h2>
+<img src="../Im%C3%A1genes/IES%20Vicente%20Aleixandre.jpg" width="200" height="200" alt="Imágen del IES Vicente Aleixandre" align="right" />   	
+<p>Soy un alumno de 1ºBachiller del instuto IES Vicente Aleixandre de Sevilla. Como motivo del aprendizaje de las técnicas de <u>HTML y CSS</u>, 
+mi compañero y yo hemos decidido hacer una página web dedicada a series y películas. En este primer diseño hablaremos únicamente de dos series,
+las cuales son las preferidas de ambos y por ello le dedicamos esta primera parte a ellas. En un futuro, si es apoyado este diseño, 
+el cual aunque no lo parezca tiene mucho trabajo detrás, serán añadidas nuevas "reviews", tanto de series como de películas de diversas plataformas
+como pueden ser (Netflix, HBO, Amazon Prime...)</p>
+<h3><strong><u>Participación en el Proyecto</u></strong></h3>
+	<ul>
+	
+		<li>Diseño de la Review de Élite</li>
+		<li>Creador de los Formatos de CSS</li>
+	   <li>Diseño del Menú</li>
+	   	   		
+	</ul>
+
+<h2>¿Por qué he elegido esta serie?</h2>  	
+<img src="../Im%C3%A1genes/valoraci%C3%B3n.png" width="150" height="30" alt="valoración de la serie" align="right"/>
+<p>El motivo por el que elegí hacer una reviwe sobre esta serie en particular esta principalmente sostenido por la trama que posee. 
+Podría considerarse una de las pocas series hechas por adolescentes que tiene un gran nivel de atracción al público. Hasta la fecha, como podréis ver
+en la review, solo dispone de tres temporadas, por lo que si te planteas verla, es momento de empezar.</p>	
+
+<h2 id="objetivo">¿Cuál es el objetivo de esta Review?</h2> 	
+<p>El objetivo principal de la Review para mi compañero y yo, es simplemente desarrollar y mejorar nuestros conocimientos sobre HTML y CSS
+y de esta forma poder crear nuevos diseños web en un futuro, a su vez que proporcionar la información necesari apara aquellos que deseen
+inicar nuevas series/películas en estos tiempo difíciles.</p>	
+	
+	
+	 </body>
+</html>

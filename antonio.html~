@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Review de Series de Netflix</title>
+        <meta charset="utf-8">
+    </head> 
+    <link href="Index.html" rel="Antonio Rojas" />
+    <link href="Estilos.css" rel="stylesheet" /> 
+    <style>
+    	 h1{
+    	 margin-right:475px;
+    	 margin-left:400px;
+   	 }
+    </style>
+    
+    <body>
+<h1>Antonio Rojas</h1>
+
+<h2>¿Quiénes somos?</h2>
+<img src="../Im%C3%A1genes/IES%20Vicente%20Aleixandre.jpg" width="200" height="200" alt="Imagen del IES Vicente Aleixandre" align="right"/>    
+<p>Soy un alumno de 1ºBachiller del instuto IES Vicente Aleixandre de Sevilla. Como motivo del aprendizaje de las técnicas de <u>HTML y CSS</u>, 
+mi compañero y yo hemos decidido hacer una página web dedicada a series y películas. En este primer diseño hablaremos únicamente de dos series,
+las cuales son las preferidas de ambos y por ello le dedicamos esta primera parte a ellas. En un futuro, si es apoyado este diseño, 
+el cual aunque no lo parezca tiene mucho trabajo detrás, serán añadidas nuevas "reviews", tanto de series como de películas de diversas plataformas
+como pueden ser (Netflix, HBO, Amazon Prime...)</p>
+<h3><strong><u>Participación en el Proyecto</u></strong></h3>
+	<ul>
+	
+		<li>Diseño de la Review de Prision Break</li>
+		<li>Diseño de las imágenes de las Reviews</li>
+	   <li>Diseño de los estilos CSS</li>
+	   	   		
+	</ul>
+
+
+<h2>¿Por qué he elegido esta serie?</h2>     
+<img src="../Im%C3%A1genes/valoraci%C3%B3n.png" width="150" height="30" alt="valoración de la serie" align="right"/>    
+<p>La razón por la que escogí Prison Break fue porque es seguramente la serie que más me ha gustado de las que vi este último año. 
+Me la recomendo un amigo y desde que ví el primer capitulo me engancho mucho y me la vi muy rápida para lo larga que es (unos 90 capítulos). 
+Una de las razones por las que tanto me gusto la serie fue por los personajes que aparecen en la serie porque interpretan su papel muy bien 
+y además me encantó la tensión que te dejaba cada capítulo. 
+Espero que las razones que les he dado les hayan convencido para que le den una oportunidad a esta increible serie.</p>	
+
+    
+<h2>¿Cuál es el objetivo de esta Review?</h2>
+<p>El objetivo principal de la Review para mi compañero y yo, es simplemente desarrollar y mejorar nuestros conocimientos sobre HTML y CSS
+y de esta forma poder crear nuevos diseños web en un futuro, a su vez que proporcionar la información necesari apara aquellos que deseen
+inicar nuevas series/películas en estos tiempo difíciles.</p>	
+  
+ 
+    
+    </body>
+</html>
